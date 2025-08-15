@@ -47,6 +47,6 @@ A última página aprofunda a análise no universo dos pagamentos, explorando o 
 
 ## 🧑‍💻 Como Executar o Projeto
 
-1.  **Clone o repositório:** `git clone [link_do_seu_repositorio]`
+1.  **Clone o repositório:** `git clone https://github.com/Gladson-Silva/Analise_de_Vendas_Olist_kaggle`
 2.  **Abra o arquivo `.pbix`**: O projeto pode ser visualizado no Power BI Desktop.
 3.  **Explore as Análises**: Navegue pelas páginas para interagir com os filtros e dashboards.
