@@ -39,16 +39,11 @@ A última página aprofunda a análise no universo dos pagamentos, explorando o 
 
 ## 🖼️ Visualização do Projeto
 
-Aqui você pode adicionar as imagens do seu dashboard para que os recrutadores possam ver o seu trabalho sem precisar baixar o arquivo.
+![Imagem da Página 1 do Dashboard](Imagens/dashboard-finalizada/analise-financeira-ecommerce-olist-pagina-01.jpg)
 
-![Imagem da Página 1 do Dashboard](link_para_a_sua_imagem_da_pagina_1.png)
-_Visão geral da página principal._
+![Imagem da Página 2 do Dashboard](Imagens/dashboard-finalizada/analise-financeira-ecommerce-olist-pagina-02.jpg)
 
-![Imagem da Página 2 do Dashboard](link_para_a_sua_imagem_da_pagina_2.png)
-_Visão da página de Conciliação e Discrepâncias._
-
-![Imagem da Página 3 do Dashboard](link_para_a_sua_imagem_da_pagina_3.png)
-_Visão da página de Análise de Pagamentos._
+![Imagem da Página 3 do Dashboard](Imagens/dashboard-finalizada/analise-financeira-ecommerce-olist-pagina-03.jpg)
 
 ## 🧑‍💻 Como Executar o Projeto
 
